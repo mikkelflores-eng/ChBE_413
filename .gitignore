@@ -1,16 +1,42 @@
-# envs / caches
-env/
-.venv/
-.ipynb_checkpoints/
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
 
-# data & models (keep big/raw data out of git)
-data/
-project/data/
-hw/**/data/
-models/
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
-# OS/editor noise
-.DS_Store
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# VSCode / IDE settings
 .vscode/
+.idea/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data (ignore big datasets but keep small .csv for homework)
+data/*.csv
+!data/*.small.csv
+data/*.tsv
+data/*.json
+data/*.parquet
+*.h5
+*.hdf5
+
+# Build / packaging
+*.egg-info/
+dist/
+build/
