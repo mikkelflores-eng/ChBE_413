@@ -1,34 +1,44 @@
-# ChBE 413 — Data Science for Chem/ChBE (Fall 2025)
-**Author:** Mikkel Flores  
-**Repo purpose:** Coursework repository for weekly homeworks and the final project, built with a professional workflow (VS Code + Conda/Mamba + GitHub).
+# ChBE 413 — Data Science in Chemical Engineering
 
-## Structure
-- `hw/hwNN/` — each homework’s notebook + small local data; PDF exports in `reports/`
-- `project/` — final project (`notebooks/`, `src/` helpers, `data/`, `reports/`)
-- `env/` — local-only things (ignored by git)
-- `.vscode/` — editor recommendations
+This repository contains homework and project work for **ChBE 413**.  
+It follows workflow using Conda/Mamba environments, Jupyter notebooks, and VS Code.
 
-## Environment
-Create once (fast with mamba, safe via conda-forge):
-```bash
-mamba create -n chbe-413 -c conda-forge python=3.11   numpy pandas matplotlib seaborn scikit-learn tensorflow keras rdkit ipykernel jupyterlab
-conda activate chbe-413
-python -m ipykernel install --user --name chbe-413 --display-name "Python 3.11 (chbe-413)"
-```
+## Setup Instructions
 
-Export spec after changes:
-```bash
-mamba env export -n chbe-413 > environment.yml
-```
+1. Clone the repo:
+   git clone https://github.com/mikkelflores-eng/ChBE_413.git
+   cd ChBE_413
 
-## Run
-1. Open the folder in VS Code.
-2. Open a notebook (e.g., `hw/hw01/hw01.ipynb`) and select the `Python 3.11 (chbe-413)` kernel.
-3. **Restart & Run All** before export.
+2. Create environment:
+   conda env create -f environment.yml
+   conda activate chbe-413
 
-## Submission
-- Export **HTML → PDF** (most robust). Keep PDFs in `hw/hwNN/reports/`.
-- Submit `.ipynb` + PDF to Canvas.
+3. Register Jupyter kernel (first time only):
+   python -m ipykernel install --user --name chbe-413 --display-name "Python 3.11 (chbe-413)"
+
+4. Open in VS Code:
+   code .
+   - Open a notebook under hw/ or project/
+   - Select kernel "Python 3.11 (chbe-413)"
+   - Run cells
+
+## Repo Structure
+ChBE_413/
+│── hw/           # Homework assignments
+│   └── hw01/
+│── project/      # Final project work
+│── env/          # Environment configs
+│── environment.yml
+│── README.md
+│── .gitignore
+
+## Submissions
+- Each assignment will be submitted as both:
+  - The .ipynb notebook
+  - An exported .pdf (for grading)
 
 ## Notes
-This repository is **work in progress** for ChBE 413 (Fall 2025). It is intentionally public/structured to serve as a portfolio.
+- Use relative paths for data (Path.cwd() / 'data/file.csv').
+- Large raw datasets are ignored by Git (.gitignore).
+- Repo is synced with GitHub for version control and reproducibility.
+
