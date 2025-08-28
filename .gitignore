@@ -1,0 +1,16 @@
+# envs / caches
+env/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# data & models (keep big/raw data out of git)
+data/
+project/data/
+hw/**/data/
+models/
+
+# OS/editor noise
+.DS_Store
+.vscode/

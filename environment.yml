@@ -1,0 +1,19 @@
+{
+  "name": "chbe-413",
+  "channels": [
+    "conda-forge"
+  ],
+  "dependencies": [
+    "python=3.11",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "tensorflow",
+    "keras",
+    "rdkit",
+    "ipykernel",
+    "jupyterlab"
+  ]
+}
