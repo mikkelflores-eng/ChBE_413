@@ -1,19 +1,34 @@
-{
-  "name": "chbe-413",
-  "channels": [
-    "conda-forge"
-  ],
-  "dependencies": [
-    "python=3.11",
-    "numpy",
-    "pandas",
-    "matplotlib",
-    "seaborn",
-    "scikit-learn",
-    "tensorflow",
-    "keras",
-    "rdkit",
-    "ipykernel",
-    "jupyterlab"
-  ]
-}
+name: chbe-413
+channels:
+  - conda-forge
+dependencies:
+  # Core
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels     # regression + hypothesis testing
+  - ipykernel
+  - jupyterlab
+  - notebook
+
+  # ML / DL
+  - tensorflow
+  - keras
+  - xgboost         # gradient boosting (tabular data workhorse)
+  - lightgbm        # fast boosting (optional, complements xgboost)
+
+  # Chem/ChBE specific
+  - rdkit           # cheminformatics toolkit
+
+  # Utils
+  - tqdm            # progress bars
+  - joblib          # model persistence
+  - pip             # always have pip for extras
+
+  # Pip-only packages (if conda lacks latest builds)
+  - pip:
+      - torch       # PyTorch, keeps ML flexibility
+
