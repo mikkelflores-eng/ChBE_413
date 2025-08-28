@@ -32,11 +32,6 @@ ChBE_413/
 │── README.md
 │── .gitignore
 
-## Submissions
-- Each assignment will be submitted as both:
-  - The .ipynb notebook
-  - An exported .pdf (for grading)
-
 ## Notes
 - Use relative paths for data (Path.cwd() / 'data/file.csv').
 - Large raw datasets are ignored by Git (.gitignore).
