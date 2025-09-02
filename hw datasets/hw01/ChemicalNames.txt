@@ -1,0 +1,132 @@
+1	Acetic acid	60.052 g/mol	CH3COOH
+2	Hydrochloric acid	36.458 g/mol	HCl
+3	Sulfuric acid	98.072 g/mol	H2SO4
+4	Acetate	59.044 g/mol	CH3COO–
+5	Ammonia	17.031 g/mol	NH3
+6	Nitric acid	63.012 g/mol	HNO3
+7	Phosphoric acid	97.994 g/mol	H3PO4
+8	Sodium phosphate	119.976 g/mol	Na3PO4
+9	Calcium carbonate	100.086 g/mol	CaCO3
+10	Ammonium sulfate	132.134 g/mol	(NH4)2SO4
+11	Carbonic acid	62.024 g/mol	H2CO3
+12	Sodium bicarbonate	84.0066 g/mol	NaHCO3
+13	Sodium hydroxide	39.997 g/mol	NaOH
+14	Calcium hydroxide	74.092 g/mol	Ca(OH)2
+15	Ethanol	46.069 g/mol	C2H5OH
+16	Hydrobromic acid	80.912 g/mol	HBr
+17	Nitrous acid	47.013 g/mol	HNO2
+18	otassium hydroxide	56.11 g/mol	KOH
+19	Silver nitrate	169.872 g/mol	AgNO3
+20	Sodium carbonate	105.988 g/mol	Na2CO3
+21	Sodium chloride	58.44 g/mol	NaCl
+22	Cellulose	162.1406 g/mol	(C6H10O5)n
+23	Magnesium hydroxide	58.319 g/mol	Mg(OH)2
+24	Methane	16.043 g/mol	CH4
+25	Nitrogen dioxide	30.006 g/mol	NO2
+26	Sodium nitrate	84.994 g/mol	NaNO3
+27	Sulfurous acid	82.073 g/mol	H2SO3
+28	Aluminium sulfate	342.15 g/mol	Al2(SO4)3
+29	Aluminum oxide	101.96 g/mol	Al2O3
+30	Ammonium nitrate	80.043 g/mol	NH4NO3
+31	Ammonium phosphate	132.056 g/mol	(NH4)3PO4
+32	Barium hydroxide	171.341 g/mol	Ba(OH)2
+33	Carbon tetrachloride	153.811 g/mol	CCl4
+34	Citric acid	192.123 g/mol	C6H8O7
+35	Hydrocyanic acid	27.026 g/mol	HCN
+36	Salicylic Acid	138.121 g/mol	C7H6O3
+37	Hydroiodic acid	127.91 g/mol	HI
+38	Hypochlorous acid	52.457 g/mol	HClO
+39	Iron iii oxide	159.687 g/mol	Fe2O3
+40	Magnesium phosphate	262.855 g/mol	Mg3(PO4)2
+41	Sodium acetate	82.0343 g/mol	C2H3NaO2
+42	Sodium sulfate	142.036 g/mol	Na2SO4
+43	Sucrose	342.2965 g/mol	C12H22O11
+44	Potassium nitrate	101.102 g/mol	KNO3
+45	Ammonium bicarbonate	96.086 g/mol	NH4HCO3
+46	Ammonium chloride	53.489 g/mol	NH4Cl
+47	Ammonium hydroxide	35.046 g/mol	NH4OH
+48	Calcium nitrate	164.088 g/mol	Ca(NO3)2
+49	Calcium oxide	56.0774 g/mol	CaO
+50	Carbon monoxide	28.01 g/mol	CO
+51	Chlorine gas	70.9 g/mol	Cl2
+53	Phenol	94.11 g/mol	C6H6O
+54	Hydrogen peroxide	34.0147 g/mol	H2O2
+55	Hydroxide	17.007 g/mol	OH–
+56	Magnesium chloride	95.211 g/mol	MgCl2
+57	Potassium chloride	74.5513 g/mol	KCl
+58	Potassium iodide	166.0028 g/mol	KI
+59	Sulfur dioxide	64.066 g/mol	SO2
+60	Glycerin	92.09 g/mol	C3H8O3
+61	Barium nitrate	261.337 g/mol	Ba(NO3)2
+62	Calcium acetate	158.17 g/mol	C4H6O4Ca
+63	Iron oxide	159.69 g/mol	Fe2O3
+64	Potassium carbonate	138.205 g/mol	K2CO3
+65	Silver chloride	143.318 g/mol	AgCl
+66	Sodium iodide	149.894 g/mol	NaI
+67	Sodium oxide	61.9789 g/mol	Na2O
+68	Sodium sulfide	78.0452 g/mol	Na2S
+69	Zinc nitrate	189.388 g/mol	Zn(NO3)2
+70	Phenolphthalein	318.32 g/mol	C20H14O4
+71	Magnesium nitrate	148.313 g/mol	Mg(NO3)2
+72	Silicon dioxide	60.083 g/mol	SiO2
+73	Acetone	58.08 g/mol	C3H6O
+74	Hydroquinone	110.11 g/mol	C6H6O2
+75	Pyridine	79.1 g/mol	C5H5N
+76	Ammonium acetate	77.083 g/mol	C2H3O2NH4
+77	Xylene	106.16 g/mol	C8H10
+78	Barium sulfate	233.38 g/mol	BaSO4
+79	Benzene	78.11 g/mol	C6H6
+80	Bicarbonate	61.016 g/mol	CHO3–
+81	Chromate	15.992 g/mol	CrO42-
+82	Methyl Ethyl Ketone	72.107 g/mol	C4H8O
+83	Cyanide	26.02 g/mol	CN−
+84	Trichloroacetic acid	163.38 g/mol	C2HCl3O2
+85	Magnesium sulfate	120.361 g/mol	MgSO4
+86	Methanol	32.04 g/mol	CH3OH
+87	Oxygen	15.999 g/mol	O
+88	Methylene blue	319.85 g/mol	C16H18ClN3S
+89	Sodium sulfite	126.043 g/mol	Na2SO3
+90	Sulfur trioxide	80.057 g/mol	SO3
+91	Aluminum phosphate	121.951 g/mol	AlPO4
+92	Stearic acid	284.484 g/mol	C18H36O2
+93	Dinitrogen monoxide	44.013 g/mol	N2O
+94	Titanium dioxide	233.38 g/mol	TiO2
+95	Acetonitrile	41.053 g/mol	C2H3N
+96	Oxalic acid	90.03 g/mol	H2C2O4
+97	Potassium dichromate	294.185 g/mol	K2Cr2O7
+98	Sodium bromide	102.894 g/mol	NaBr
+99	Sodium hypochlorite	74.439 g/mol	NaClO
+100	Zinc acetate	183.48 g/mol	Zn(CH3COO)2(H2O)2
+101	Zinc chloride	136.286 g/mol	ZnCl2
+102	Zinc hydroxide	99.424 g/mol	Zn(OH)2
+103	Magnesium carbonate	84.313 g/mol	MgCO3
+104	Potassium chlorate	122.545 g/mol	KClO3
+105	Hydrazine	32.0452 g/mol	N2H4
+106	Ascorbic acid	176.12 g/mol	C6H8O6
+107	Benzoic acid	122.12 g/mol	C7H6O2
+108	Resorcinol	110.1 g/mol	C6H6O2
+109	Chlorine	70.9 g/mol	Cl2
+110	Maleic acid	116.072 g/mol	C4H4O4
+111	Sodium metabisulfite	190.107 g/mol	Na2S2O5
+112	Acetamide	59.068 g/mol	C2H5NO
+113	Sodium silicate	122.062 g/mol	(Na2O)x·SiO2
+114	Nitrite	46.005 g/mol	NO2−
+115	Phosphate	94.9714 g/mol	PO43-
+116	Dichloromethane	84.93 g/mol	CH2Cl2
+117	Carbon Disulfide	76.13 g/mol	CS2
+118	Potassium chromate	194.189 g/mol	CrK2O4
+119	Zinc sulfate	161.436 g/mol	ZnSO4
+120	Iodine	 126.90 g/mol	I
+121	Tannic acid	1701.19 g/mol	C76H52O46
+122	Aluminum	26.982 g/mol	Al
+123	Perchloric acid	100.46 g/mol	HClO4
+124	Hypochlorite	51.449 g/mol	ClO–
+125	Potassium Bromide	119.002 g/mol	KBr
+126	Chromic acid	118.01 g/mol	H2CrO4
+127	Dihydrogen monoxide	18.01528 g/mol	OH2
+128	Methyl acetate	74.079 g/mol	C3H6O2
+129	Dimethyl sulfoxide	78.13 g/mol	C2H6OS
+130	Hexane	86.18 g/mol	C6H14
+131	Eugenol	164.2 g/mol	C10H12O2
+132	Manganese dioxide	86.9368 g/mol	MnO2
+133	Lactic acid	90.078 g/mol	C3H6O3
