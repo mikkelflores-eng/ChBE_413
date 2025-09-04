@@ -1,0 +1,132 @@
+Acetic acid	0.060052 kDa	CH3COOH
+Hydrochloric acid	0.036458 kDa	HCl
+Sulfuric acid	0.098072 kDa	H2SO4
+Acetate	0.059044 kDa	CH3COO–
+Ammonia	0.017031 kDa	NH3
+Nitric acid	0.063012 kDa	HNO3
+Phosphoric acid	0.097994 kDa	H3PO4
+Sodium phosphate	0.119976 kDa	Na3PO4
+Calcium carbonate	0.100086 kDa	CaCO3
+Ammonium sulfate	0.132134 kDa	(NH4)2SO4
+Carbonic acid	0.062024 kDa	H2CO3
+Sodium bicarbonate	0.084007 kDa	NaHCO3
+Sodium hydroxide	0.039997 kDa	NaOH
+Calcium hydroxide	0.074092 kDa	Ca(OH)2
+Ethanol	0.046069 kDa	C2H5OH
+Hydrobromic acid	0.080912 kDa	HBr
+Nitrous acid	0.047013 kDa	HNO2
+otassium hydroxide	0.056110 kDa	KOH
+Silver nitrate	0.169872 kDa	AgNO3
+Sodium carbonate	0.105988 kDa	Na2CO3
+Sodium chloride	0.058440 kDa	NaCl
+Cellulose	0.162141 kDa	(C6H10O5)n
+Magnesium hydroxide	0.058319 kDa	Mg(OH)2
+Methane	0.016043 kDa	CH4
+Nitrogen dioxide	0.030006 kDa	NO2
+Sodium nitrate	0.084994 kDa	NaNO3
+Sulfurous acid	0.082073 kDa	H2SO3
+Aluminium sulfate	0.342150 kDa	Al2(SO4)3
+Aluminum oxide	0.101960 kDa	Al2O3
+Ammonium nitrate	0.080043 kDa	NH4NO3
+Ammonium phosphate	0.132056 kDa	(NH4)3PO4
+Barium hydroxide	0.171341 kDa	Ba(OH)2
+Carbon tetrachloride	0.153811 kDa	CCl4
+Citric acid	0.192123 kDa	C6H8O7
+Hydrocyanic acid	0.027026 kDa	HCN
+Salicylic Acid	0.138121 kDa	C7H6O3
+Hydroiodic acid	0.127910 kDa	HI
+Hypochlorous acid	0.052457 kDa	HClO
+Iron iii oxide	0.159687 kDa	Fe2O3
+Magnesium phosphate	0.262855 kDa	Mg3(PO4)2
+Sodium acetate	0.082034 kDa	C2H3NaO2
+Sodium sulfate	0.142036 kDa	Na2SO4
+Sucrose	0.342297 kDa	C12H22O11
+Potassium nitrate	0.101102 kDa	KNO3
+Ammonium bicarbonate	0.096086 kDa	NH4HCO3
+Ammonium chloride	0.053489 kDa	NH4Cl
+Ammonium hydroxide	0.035046 kDa	NH4OH
+Calcium nitrate	0.164088 kDa	Ca(NO3)2
+Calcium oxide	0.056077 kDa	CaO
+Carbon monoxide	0.028010 kDa	CO
+Chlorine gas	0.070900 kDa	Cl2
+Phenol	0.094110 kDa	C6H6O
+Hydrogen peroxide	0.034015 kDa	H2O2
+Hydroxide	0.017007 kDa	OH–
+Magnesium chloride	0.095211 kDa	MgCl2
+Potassium chloride	0.074551 kDa	KCl
+Potassium iodide	0.166003 kDa	KI
+Sulfur dioxide	0.064066 kDa	SO2
+Glycerin	0.092090 kDa	C3H8O3
+Barium nitrate	0.261337 kDa	Ba(NO3)2
+Calcium acetate	0.158170 kDa	C4H6O4Ca
+Iron oxide	0.159690 kDa	Fe2O3
+Potassium carbonate	0.138205 kDa	K2CO3
+Silver chloride	0.143318 kDa	AgCl
+Sodium iodide	0.149894 kDa	NaI
+Sodium oxide	0.061979 kDa	Na2O
+Sodium sulfide	0.078045 kDa	Na2S
+Zinc nitrate	0.189388 kDa	Zn(NO3)2
+Phenolphthalein	0.318320 kDa	C20H14O4
+Magnesium nitrate	0.148313 kDa	Mg(NO3)2
+Silicon dioxide	0.060083 kDa	SiO2
+Acetone	0.058080 kDa	C3H6O
+Hydroquinone	0.110110 kDa	C6H6O2
+Pyridine	0.079100 kDa	C5H5N
+Ammonium acetate	0.077083 kDa	C2H3O2NH4
+Xylene	0.106160 kDa	C8H10
+Barium sulfate	0.233380 kDa	BaSO4
+Benzene	0.078110 kDa	C6H6
+Bicarbonate	0.061016 kDa	CHO3–
+Chromate	0.015992 kDa	CrO42-
+Methyl Ethyl Ketone	0.072107 kDa	C4H8O
+Cyanide	0.026020 kDa	CN−
+Trichloroacetic acid	0.163380 kDa	C2HCl3O2
+Magnesium sulfate	0.120361 kDa	MgSO4
+Methanol	0.032040 kDa	CH3OH
+Oxygen	0.015999 kDa	O
+Methylene blue	0.319850 kDa	C16H18ClN3S
+Sodium sulfite	0.126043 kDa	Na2SO3
+Sulfur trioxide	0.080057 kDa	SO3
+Aluminum phosphate	0.121951 kDa	AlPO4
+Stearic acid	0.284484 kDa	C18H36O2
+Dinitrogen monoxide	0.044013 kDa	N2O
+Titanium dioxide	0.233380 kDa	TiO2
+Acetonitrile	0.041053 kDa	C2H3N
+Oxalic acid	0.090030 kDa	H2C2O4
+Potassium dichromate	0.294185 kDa	K2Cr2O7
+Sodium bromide	0.102894 kDa	NaBr
+Sodium hypochlorite	0.074439 kDa	NaClO
+Zinc acetate	0.183480 kDa	Zn(CH3COO)2(H2O)2
+Zinc chloride	0.136286 kDa	ZnCl2
+Zinc hydroxide	0.099424 kDa	Zn(OH)2
+Magnesium carbonate	0.084313 kDa	MgCO3
+Potassium chlorate	0.122545 kDa	KClO3
+Hydrazine	0.032045 kDa	N2H4
+Ascorbic acid	0.176120 kDa	C6H8O6
+Benzoic acid	0.122120 kDa	C7H6O2
+Resorcinol	0.110100 kDa	C6H6O2
+Chlorine	0.070900 kDa	Cl2
+Maleic acid	0.116072 kDa	C4H4O4
+Sodium metabisulfite	0.190107 kDa	Na2S2O5
+Acetamide	0.059068 kDa	C2H5NO
+Sodium silicate	0.122062 kDa	(Na2O)x·SiO2
+Nitrite	0.046005 kDa	NO2−
+Phosphate	0.094971 kDa	PO43-
+Dichloromethane	0.084930 kDa	CH2Cl2
+Carbon Disulfide	0.076130 kDa	CS2
+Potassium chromate	0.194189 kDa	CrK2O4
+Zinc sulfate	0.161436 kDa	ZnSO4
+Iodine	0.126900 kDa	I
+Tannic acid	1.701190 kDa	C76H52O46
+Aluminum	0.026982 kDa	Al
+Perchloric acid	0.100460 kDa	HClO4
+Hypochlorite	0.051449 kDa	ClO–
+Potassium Bromide	0.119002 kDa	KBr
+Chromic acid	0.118010 kDa	H2CrO4
+Dihydrogen monoxide	0.018015 kDa	OH2
+Methyl acetate	0.074079 kDa	C3H6O2
+Dimethyl sulfoxide	0.078130 kDa	C2H6OS
+Hexane	0.086180 kDa	C6H14
+Eugenol	0.164200 kDa	C10H12O2
+Manganese dioxide	0.086937 kDa	MnO2
+Lactic acid	0.090078 kDa	C3H6O3

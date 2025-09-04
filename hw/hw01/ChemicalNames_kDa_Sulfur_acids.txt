@@ -1,0 +1,2 @@
+Sulfuric acid	0.098072 kDa	H2SO4
+Sulfurous acid	0.082073 kDa	H2SO3
